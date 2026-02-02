@@ -11,7 +11,7 @@ html {
   background: purple;
   background: linear-gradient(90deg, #06165f 0%, #3c00bc 100%);
 }
-
+/* Comment test for git clone */
 .header__inner {
   display: flex;
   flex-wrap: wrap;
